@@ -1,0 +1,6 @@
+env/
+*.pyc
+*.db
+*.docx
+actresses.list.gz
+actors.list.gz
